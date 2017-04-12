@@ -1,0 +1,58 @@
+General Terms and Conditions and Terms of Use for Y2G 
+
+1	Scope 
+1.1	The following General Terms and Conditions and Terms of Use (hereinafter referred to as T&C) apply to the software Y2G (hereinafter referred to as Y2G) offered by Consus Ventures LLC. 
+1.2	The services of Consus Ventures LLC are performed solely on the basis of these T&C. 
+1.3	Conflicting or deviating T&C or other restrictions by the user are not part of the contract unless Consus Ventures LLC expressly accepts these T&C in individual cases prior to a conclusion of the contract. 
+2	Conclusion of the contract 
+2.1	The conclusion of the contract takes place via internet and the respective internet page on which Y2G is offered for a download or within the framework of a download of other software. The web sites are available in English or German language. 
+2.2	The representation of the services on the internet and the relevant web pages or in the framework of the download of other software is not a legally binding offer of Consus Ventures LLC to the user. Only the user submits a legally binding offer to conclude a contract in relation to the use of Y2G to the Consus Ventures LLC by entering the required date, confirming the necessary conditions and clicking the button “Download”. 
+2.3	The user can correct all entries before clicking the button „Download“ by using the normal keyboard and mouse functions. 
+2.4	A contract regarding the use of Y2G becomes effective upon a release of the software or after completion of the download process. 
+2.5	The contract text including the T&C that were valid at the conclusion of the contract are not stored by Consus Ventures LLC. Therefore, access to this version will not be possible at a later time. However, the user has the possibility of retrieving the T&C during the download process in a reproducible form. The user can also retrieve the current T&C on the user interface of the software under the menu item „T&C“ at any time. 
+3	Right of revocation 
+You have the right to revoke this contract within fourteen days without indications of reasons. The revocation period is fourteen days starting from the day of the conclusion of the contract. 
+In order to exercise your right of revocation, you must send us (Consus Ventures LLC, 18501 Pines Blvd., Pembroke Pines, FL 33029) a clear declaration (e.g. a letter sent by mail, telefax or e-mail) concerning your decision to revoke this contract. You can use the enclosed sample revocation form, but it is not mandatory. 
+A timely submission of your declaration to exercise your right of revocation shall be deemed sufficient for compliance of the revocation term. 
+Consequences of revocation 
+If you revoke this contract, we have to repay all payments received from you including freight charges (excluding additional charges resulting from your choice of a different type of delivery from the most favorable standard delivery offered by us), without delay and at the latest within fourteen days from the date on which we received your notification of revocation. For this repayment, we use the same means of payment that you used in the original transaction unless expressly agreed otherwise; we are not going to charge any fees for this repayment. 
+Sample revocation form 
+(If you would like to revoke this contract, please fill in this form and send it back to us.)
+Send to: 
+Consus Ventures LLC18501  Pines Blvd.Pembroke Pines,  FL 33029
+Hereby, I/we (*) revoke the contract concluded by me / us (*) on the sale of the following goods (*)/provision of the following services (*) 
+ordered on (*)/received on (*)
+name of/the consumer(s)
+address of the consumer(s)
+signature of the consumer(s) (only if written on paper)
+date(*) 
+Delete as applicable. 
+Special Instructions 
+Your right of revocation regarding the digital content covered by the contract expires prematurely, if we started with the execution of the contract after you expressly agreed that we may start with the execution of the contract before the end of the withdrawal period and you confirmed your knowledge that by submitting your consent you would lose your right of revocation at the start of the contract’s execution. 
+4	Subject of the contract 
+4.1	The user receives the software Y2G from Consus Ventures LLC for the conversion of video files to MP3 files. 
+4.2	The condition of Y2G is determinded by the performance description at the conclusion of contract. Consus Ventures LLC does not owe an additional service beyond this description. The description of performance may be viewed in the framework of the download process. 
+4.3	The use of Y2G is free of charge. 
+5	Rights of use 
+5.1	Consus Ventures LLC grants the user a simple, non-exclusive and non-transferable right to use Y2G for private purposes. A commercial use of Y2G is not allowed. 
+5.2	If Consus Ventures LLC provides a new version of the software (update), this update will be subject to these T&C.
+6	 Material defects and defects of title 
+6.1	Due to the nature of the internet and computer systems, Consus Ventures LLC cannot grant continuous availability of the features and functionality of the software. 
+6.2	In addition, the statutory warranty provisions apply. 
+7	Performance time, transfer of risk 
+7.1	The software is provided as the most current version at the time of conclusion of the contract. 
+7.2	It is the responsibility of the user to provide a software and hardware environment suitable and adequate for the transfer of software. 
+7.3	The risk of accidental loss shall pass to the customer on the release of software. 
+8	Liability 
+8.1	The liability of Consus Ventures LLC, for whatever legal reason, is limited to damage typically foreseeable for the contract. 
+8.2	This does not apply to 
+(a) the violation of essential contractual duties, e.g. contractual obligations, whose fulfilment make a proper application of the contract at all possible and on whose compliance the user may trust regularly, 
+(b) damage to body, life and health, 
+(c) intentional or grossly negligent breach of duty by Consus Ventures LLC, its legal representatives or vicarious agents, 
+(d) liability according to the product liability law and 
+(e) claims arising from guarantees. 
+8.3	Consus Ventures LLC is free to raise an objection of contributory negligence. 
+8.4	For the period of limitation, statutory provisions shall apply. 
+9	Concluding provisions 
+9.1	The law of the Federal Republic of Germany applies under exclusion of the UN purchasing law (CISG). Unaffected by this regulation remain mandatory regulations of the state in which the customer has its habitual residence. 
+9.2	Should any provision of these terms and conditions be or become invalid, contain an impermissible period provision or a loophole, the legal validity of the other conditions remains unaffected. In so far as the invalidity does not result from a violation of §§ 305 ff. BGB (The German Civil Code), instead of the invalid provision a valid provision shall apply that comes as close as possible to the intention of the contracting parties. The same applies to the case of a loophole. In the event of an invalid time limit, the legally permissible dimension applies. 
