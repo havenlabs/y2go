@@ -1,0 +1,59 @@
+
+  [0]         Version: 3
+         SerialNumber: 9578573561869881522
+             IssuerDN: C=US,ST=LA,L=LA,O=Y2Go Inc,OU=Y2Go Unit,CN=Y2Go,E=y2go@mail.com
+           Start Date: Wed Mar 09 03:30:09 EST 2016
+           Final Date: Fri Dec 28 03:30:09 EST 2018
+            SubjectDN: C=US,ST=LA,L=LA,O=Y2Go Inc,OU=Y2Go Unit,CN=Y2Go,E=y2go@mail.com
+           Public Key: RSA Public Key
+            modulus: b2cbedc1e69789e741f0bfce15b2edc61096c449d0b3fa6b163d2c4dd068aa4b57b415e66c1789598d4762e5f184d3ade5649ea7acbe676c4cc88a68f7c89bbbb4894762a80380fe5d34251180f188de901ef3e92af53b22109927a2dc856e942ef9a15ea12e369c4ceeb8535df5ffb242a3ce2782da64a23c219b5445b1ee8d6854e2e5898e5b80c1bd0bbfbce159ec97941221f14ab448b37ec0a639d088c96d87fab9412df3e62c4c15625f0dca61e5725df2a3452e7cd3903bd196944a665b8651645117364fb14b60e74e0ca62d616c309216de0b286fcc48693e4da6b7130127530a3ce5b2709889d91f34ba609119b3f60e01823f141e77238433819f
+    public exponent: 10001
+
+  Signature Algorithm: SHA256WithRSAEncryption
+            Signature: 1d99c92e44bab4502187b7c666a9ca5a661a2413
+                       df0156b9dd190a3e0c2b853ae0422baca33b3973
+                       37b87f059b64eab40ba36ce5a7f77f649f9832f5
+                       890b2f06218394a2d2f12a6d59a78ac29fec3bcf
+                       c72c7fec3ba4cf60000fddef7f149df5d4a1bfb5
+                       3399e443379ee142017247fd2b874b5ae9b8bf1b
+                       9fa9745c81c5c3438f5972c788c13ff291daba4d
+                       4ef9233fe3b9bb237dd7c4daa9d460631699ca1e
+                       87755512bc05bd42fe9c40006fa6cdf0654d91e0
+                       46aca5644096e9e4248d704650ea5bb8ce53509e
+                       c95466fd2bd455dffc47f97dfb2a79220c169812
+                       9e9843d1cfe8c630efe560dba4d6529fb699d35e
+                       85f33ea0c21fbd6717f0018d7a39dcb1
+       Extensions: 
+                       critical(false) 2.5.29.14 value = DER Octet String[20] 
+
+                       critical(false) 2.5.29.35 value = DER Sequence
+    Tagged [0] IMPLICIT 
+        DER Octet String[20] 
+
+                       critical(false) BasicConstraints: isCa(true)
+
+
+
+-----BEGIN CERTIFICATE-----
+MIIDyTCCArGgAwIBAgIJAITt7eeyM9CyMA0GCSqGSIb3DQEBCwUAMHsxCzAJBgNV
+BAYTAlVTMQswCQYDVQQIDAJMQTELMAkGA1UEBwwCTEExETAPBgNVBAoMCFkyR28g
+SW5jMRIwEAYDVQQLDAlZMkdvIFVuaXQxDTALBgNVBAMMBFkyR28xHDAaBgkqhkiG
+9w0BCQEWDXkyZ29AbWFpbC5jb20wHhcNMTYwMzA5MDgzMDA5WhcNMTgxMjI4MDgz
+MDA5WjB7MQswCQYDVQQGEwJVUzELMAkGA1UECAwCTEExCzAJBgNVBAcMAkxBMREw
+DwYDVQQKDAhZMkdvIEluYzESMBAGA1UECwwJWTJHbyBVbml0MQ0wCwYDVQQDDARZ
+MkdvMRwwGgYJKoZIhvcNAQkBFg15MmdvQG1haWwuY29tMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAssvtweaXiedB8L/OFbLtxhCWxEnQs/prFj0sTdBo
+qktXtBXmbBeJWY1HYuXxhNOt5WSep6y+Z2xMyIpo98ibu7SJR2KoA4D+XTQlEYDx
+iN6QHvPpKvU7IhCZJ6LchW6ULvmhXqEuNpxM7rhTXfX/skKjzieC2mSiPCGbVEWx
+7o1oVOLliY5bgMG9C7+84Vnsl5QSIfFKtEizfsCmOdCIyW2H+rlBLfPmLEwVYl8N
+ymHlcl3yo0UufNOQO9GWlEpmW4ZRZFEXNk+xS2DnTgymLWFsMJIW3gsob8xIaT5N
+prcTASdTCjzlsnCYidkfNLpgkRmz9g4Bgj8UHncjhDOBnwIDAQABo1AwTjAdBgNV
+HQ4EFgQUO8AIlcem0/Ipd4WaVJKwHDnJ2EMwHwYDVR0jBBgwFoAUO8AIlcem0/Ip
+d4WaVJKwHDnJ2EMwDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQsFAAOCAQEAHZnJ
+LkS6tFAhh7fGZqnKWmYaJBPfAVa53RkKPgwrhTrgQiusozs5cze4fwWbZOq0C6Ns
+5af3f2SfmDL1iQsvBiGDlKLS8SptWaeKwp/sO8/HLH/sO6TPYAAP3e9/FJ311KG/
+tTOZ5EM3nuFCAXJH/SuHS1rpuL8bn6l0XIHFw0OPWXLHiME/8pHauk1O+SM/47m7
+I33XxNqp1GBjFpnKHod1VRK8Bb1C/pxAAG+mzfBlTZHgRqylZECW6eQkjXBGUOpb
+uM5TUJ7JVGb9K9RV3/xH+X37KnkiDBaYEp6YQ9HP6MYw7+Vg26TWUp+2mdNehfM+
+oMIfvWcX8AGNejncsQ==
+-----END CERTIFICATE-----
